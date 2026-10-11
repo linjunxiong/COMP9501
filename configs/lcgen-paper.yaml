@@ -1,0 +1,9 @@
+name: lcgen-paper
+system:
+  guidance_type: lcgen-stable-diffusion-guidance
+  guidance:
+    cert_strength: 1.0
+    cert_gamma: 10.0
+    cert_mean_mode: paper
+    cert_gradient_sign: density
+    cert_angle_units: radians

@@ -1,0 +1,8 @@
+{
+  "threestudio": "28d9d80d9d00f308244adfcf3be8b17ca0cb6465",
+  "vendor/tiny-cuda-nn": "c91138bcd4c6877c8d5e60e483c0581aafc70cce",
+  "vendor/tiny-cuda-nn/dependencies/cutlass": "1eb6355182a5124639ce9d3ff165732a94ed9a70",
+  "vendor/tiny-cuda-nn/dependencies/fmt": "b0c8263cb26ea178d3a5df1b984e1a61ef578950",
+  "vendor/nvdiffrast": "729261dc64c4241ea36efda84fbf532cc8b425b8",
+  "vendor/envlight": "05b5851e854429d72ecaf5b206ed64ce55fae677"
+}
